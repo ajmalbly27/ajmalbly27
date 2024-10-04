@@ -5,7 +5,7 @@
 - 👯 I'm looking to collaborate on front-end projects, especially those involving React, Redux, or building intuitive user interfaces.
 - 🤔 I’m looking for help with optimizing state management in Redux and improving performance for large-scale React applications.
 - 💬 Ask me about React, Redux, or building interactive web apps.
-- 📫 You can reach me at [ajmalbly27@gmail.com] or on LinkedIn at [(https://www.linkedin.com/in/mohd-ajmal-raza-505822180/)].
+- 📫 You can reach me at ajmalbly27@gmail.com or on LinkedIn at https://www.linkedin.com/in/mohd-ajmal-raza-505822180/.
 
 <!--
 **ajmalbly27/ajmalbly27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
